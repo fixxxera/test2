@@ -22,6 +22,7 @@ public class Main {
         for (String each : list) {
             System.out.println(each);
         }
+        System.out.println("each");
 
     }
 }
